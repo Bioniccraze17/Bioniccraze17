@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bioniccraze17
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Information Technology 
-- 💞️ I’m looking to collaborate on Phyton 
+- 👋 Hi, I’m Harshit Prasad 
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Information Technology
+- 💞️ I’m looking to collaborate on Machine learning and Python.
 - 📫 How to reach me hstpsd@gmail.com
 
 <!---
